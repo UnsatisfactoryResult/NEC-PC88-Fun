@@ -1,2 +1,2 @@
-# NEC-PC88-Fun
+# PC88-Fun
 General information on NECs PC88 series
